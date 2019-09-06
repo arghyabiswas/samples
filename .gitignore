@@ -3,3 +3,6 @@
 ################################################################################
 
 /SQLInjectionSample/.vs
+/SQLInjectionSample/packages
+/SQLInjectionSample/SQLInjectionSample/bin
+/SQLInjectionSample/SQLInjectionSample/obj/Debug
